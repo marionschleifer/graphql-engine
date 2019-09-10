@@ -61,7 +61,17 @@ Apart from the learn content, we have identified three other ways of contributin
 
 - [tools](community/tools) 
 
-Feel free to submit a pull request if you have something to add even if it's not related to the three sections above.
+If you would like to contribute to the community by
+
+- writing a technical blogpost
+
+- speaking at an event
+
+- organizing a workshop
+
+check out our [community wiki](https://github.com/hasura/graphql-engine/wiki/Community-Wiki#community-guide).
+
+Feel free to submit a pull request if you have something to add even if it's not related to anything mentioned above.
 
 ### Hasura CLI
 
@@ -104,11 +114,3 @@ The README of the CLI repository can be found [here](https://github.com/hasura/g
 - Don't capitalize the first letter of the summary line.
 
 - Don't add a period/dot (.) at the end of the summary line.
-
-## Translations
-
-This document is available in the following translations:
-
-- [French :fr:](translations/CONTRIBUTING.french.md)
-
-(Credits: Some sections are adapted from https://github.com/PostgREST/postgrest/blob/master/.github/CONTRIBUTING.md)
